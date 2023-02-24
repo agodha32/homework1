@@ -1,0 +1,5 @@
+Git Merge allows us to merge branches of git, while the commit logs are intact. Git Rebase on the otherhand lets us integrate changes from one branch to another, and
+once the action is complete, the commit logs are modified. Both combine the work of multiple people into a single folder/object. Merge preserves history, while Rebase 
+rewrites it. Along with that, Merge is best when the resulting branch can be public, where as Rebase is best when the resulting branch is supposed to be private.
+
+The remote repository is a central online repository that is seen by several collaborators.
